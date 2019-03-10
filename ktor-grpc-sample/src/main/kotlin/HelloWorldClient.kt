@@ -1,5 +1,3 @@
-package com.example.ktorgrpcsample
-
 import com.example.grpc.helloworld.GreeterGrpc
 import com.example.grpc.helloworld.HelloReply
 import com.example.grpc.helloworld.HelloRequest

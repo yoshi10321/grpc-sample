@@ -1,5 +1,3 @@
-package com.example.ktorgrpcsample
-
 import com.example.grpc.routeguide.RouteGuideGrpc
 import com.example.grpc.routeguide.RouteGuideOuterClass
 import io.grpc.ManagedChannel

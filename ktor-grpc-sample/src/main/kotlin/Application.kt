@@ -1,5 +1,3 @@
-package com.example.ktorgrpcsample
-
 import io.ktor.application.*
 import io.ktor.response.*
 import io.ktor.features.*
